@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olaitan Michael (Kodexkodes)</h1>
-<h3 align="center">Software Engineer | PHP • Laravel • Node.js • Golang • Vue.js • Nuxt.js • Flutter & Dart</h3>
+<h3 align="center">Software Engineer | PHP • Laravel • Node.js • Golang • Vue.js • Nuxt.js • Inertia.js • Flutter & Dart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordcodex&label=Profile%20views&color=0e75b6&style=flat" alt="lordcodex" /> </p>
 
