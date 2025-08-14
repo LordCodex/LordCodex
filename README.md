@@ -67,5 +67,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/b2c28186-5d75-4c14-bf5e-7d645ca96368.svg)](https://wakatime.com/@b2c28186-5d75-4c14-bf5e-7d645ca96368)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lordcodex&layout=compact&theme=tokyonight)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lordcodex&theme=tokyonight&layout=compact)
 
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=LordCodex&limit=5&theme=dark&combine_all_yearly_contributions=true)
