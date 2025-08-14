@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olaitan Michael (Kodexkodes)</h1>
-<h3 align="center">Software Engineer | PHP • Laravel • Node.js • Golang • Vue.js • Nuxt.js • Inertia.js • Flutter & Dart</h3>
+<h3 align="center">Software Engineer | PHP • Laravel • Inertia.js | Vue.js • Nuxt.js | Flutter & Dart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordcodex&label=Profile%20views&color=0e75b6&style=flat" alt="lordcodex" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.codexworld.com.ng/](https://www.codexworld.com.ng/)
 
-- 💬 Ask me about **PHP • Laravel • Node.js • Golang • Vue.js • Nuxt.js • Flutter & Dart**
+- 💬 Ask me about **PHP • Laravel • Inertia.js • Vue.js • Nuxt.js • Flutter & Dart**
 
 - 📫 How to reach me **michaelolaitan6@gmail.com**
 
@@ -52,7 +52,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <!-- PHP --> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a> <!-- Laravel --> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> </a> <!-- Golang --> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a> <!-- Vue.js --> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a> <!-- Nuxt.js --> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40"/> </a> <!-- Flutter --> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> <!-- Dart --> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a> <!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <!-- Node.js --> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> </p>
+<p align="left"> <!-- PHP --> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a> <!-- Laravel --> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="Laravel" width="40" height="40"/> </a> <!-- Inertiajs --> <a href="https://inertiajs.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Vpzkfdrz/svgviewer-png-output.png" alt="inertiajs" width="40" height="40"/> </a> <!-- Vue.js --> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a> <!-- Nuxt.js --> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40"/> </a> <!-- Flutter --> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> <!-- Dart --> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a> <!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <!-- Node.js --> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kodexkodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kodexkodes" /></a><a href="https://ko-fi.com/kodexkodes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kodexkodes" /></a></p><br><br>
@@ -62,3 +62,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lordcodex&show_icons=true&locale=en" alt="lordcodex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordcodex&" alt="lordcodex" /></p>
+
+### ⏳ Weekly Development Breakdown
+
+[![wakatime](https://wakatime.com/badge/user/b2c28186-5d75-4c14-bf5e-7d645ca96368.svg)](https://wakatime.com/@b2c28186-5d75-4c14-bf5e-7d645ca96368)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lordcodex&layout=compact&theme=tokyonight)
+
